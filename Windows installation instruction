@@ -1,0 +1,29 @@
+// This project 
+
+
+Step 1:Clone the repository
+
+Step 2: Install the virtualenv:
+py -m pip install --user virtualenv
+
+
+Step 3: create  a virtual environment:
+py -m venv env
+
+Step 4: Activate the virtual environment:
+.\env\Scripts\activate
+
+Step 5: Browse to "myProject" directory of the downloaded project using command prompt:
+
+cd myProject
+
+Step 6: Install requirements.I have already generated the requirements.txt file:
+pip install -r requirements.txt
+
+Step 7: Run the server locally:
+python3 manage.py runserver
+
+Step 8: Enter the following link on your browser:
+http://127.0.0.1:8000
+
+
