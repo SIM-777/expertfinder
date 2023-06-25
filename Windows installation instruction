@@ -1,6 +1,6 @@
 // This project 
 
-
+ensure python is installed in your machine along with "pip" package manager is installed in your machine
 Step 1:Clone the repository
 
 Step 2: Install the virtualenv:
